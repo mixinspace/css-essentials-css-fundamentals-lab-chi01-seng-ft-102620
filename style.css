@@ -44,6 +44,7 @@ a {
   padding-left: 10px;
   padding-right: 10px;
 }
-section p {
+section p{
+  width: 800px;
   text-align: center;
 }
